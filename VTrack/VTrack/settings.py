@@ -43,6 +43,7 @@ INSTALLED_APPS = [
     'crispy_forms',
     'map',
     'missingreport.apps.MissingreportConfig',
+    'crispy_bootstrap4',
 ]
 
 MIDDLEWARE = [
